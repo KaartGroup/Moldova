@@ -4,7 +4,4 @@ This repository tracks the various mapping projects throughout Moldova that are 
 ## Projects
 
 ### [Road Network Improvement Project](https://github.com/KaartGroup/Moldova/projects/1 "Project 1")
-Using GIS analysis tools, we identified areas where we believe there are missing roads. The purpose of this project is to digitize missing roads in those areas and ensure a high quality road network.
-
-#### Contributors
-The project is open to OpenStreetMap contributors of any experience level.
+The Kaart team will focus on data improvements pertinent to foundational data in OSM, primarily in road networks. The current scope of editing will direct efforts to add and increase the integrity of the following: road connectivity, routing, road alignment, geometry, destinations, exits, and turn restrictions.
